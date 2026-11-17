@@ -91,7 +91,7 @@ packageJson = {
   types: `${dtsPrefix}/index.d.ts`,
   author: {
     name: '泥豆君',
-    email: 'Mr.MudBean@outlook.com',
+    email: 'MudBean@outlook.com',
     url: 'https://mudbean.cn',
   },
   description: '一个简单的数仓',
@@ -112,16 +112,16 @@ packageJson = {
     ...exportsList,
   },
 
-  keywords: ['state', 'mudbean', '数据仓', 'vvi'],
+  keywords: ['state', '数据仓', 'vvi'],
   homepage: 'https://npms.gleanings.cn/state',
   dependencies,
   bugs: {
-    url: 'https://github.com/gleanings/state/issues',
-    email: 'Mr.MudBean@outlook.com',
+    url: 'https://github.com/hippopotomonstrosesquipedaliophobe/state/issues',
+    email: 'MudBean@outlook.com',
   },
   repository: {
     type: 'git',
-    url: 'git+https://github.com/gleanings/state.git',
+    url: 'git+https://github.com/hippopotomonstrosesquipedaliophobe/state.git',
   },
   publishConfig: {
     access: 'public',

@@ -1,6 +1,6 @@
 # @vvi/state
 
-[![version](<https://img.shields.io/npm/v/@vvi/state.svg?logo=npm&logoColor=rgb(0,0,0)&label=版本号&labelColor=rgb(73,73,228)&color=rgb(0,0,0)>)](https://www.npmjs.com/package/@vvi/state) [![issues 提交](<https://img.shields.io/badge/issues-提交-rgb(255,0,63)?logo=github>)](https://github.com/gleanings/state/issues)
+[![version](<https://img.shields.io/npm/v/@vvi/state.svg?logo=npm&logoColor=rgb(0,0,0)&label=版本号&labelColor=rgb(73,73,228)&color=rgb(0,0,0)>)](https://www.npmjs.com/package/@vvi/state) [![issues 提交](<https://img.shields.io/badge/issues-提交-rgb(255,0,63)?logo=github>)](https://github.com/hippopotomonstrosesquipedaliophobe/state/issues)
 
 简易的状态管理。
 
@@ -188,6 +188,6 @@ export const interceptMiddleware: Middleware = manager => next => action => {
 
 ## 状态
 
-此软件包是 `@mudbean` 生态系统的一部分。
+此软件包是 `MudBean` 生态系统的一部分。
 它使用严格的 TypeScript 编写，并通过 Rollup 构建进行验证。
 虽然单元测试较少，但 API 稳定，并在生产环境中大量使用。
